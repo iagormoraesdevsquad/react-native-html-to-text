@@ -1,5 +1,5 @@
 {
-    "name": "react-native-html-to-text",
+    "name": "react-native-html-to-text-wrapper",
     "version": "0.0.6",
     "description": "Wrapper module of Anthony Ou that uses HTML like markup to create stylized text in react-native.",
     "private": false,
@@ -13,13 +13,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Anthonyzou/react-native-html-to-text.git"
+        "url": "https://github.com/iagormoraesdevsquad/react-native-html-to-text"
     },
     "keywords": ["react-native", "react-component", "android"],
     "author": "Iagor Moraes",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Anthonyzou/react-native-html-to-text/issues"
+        "url": "https://github.com/iagormoraesdevsquad/react-native-html-to-text"
     },
-    "homepage": "https://github.com/Anthonyzou/react-native-html-to-text#readme"
+    "homepage": "https://github.com/iagormoraesdevsquad/react-native-html-to-text"
 }
