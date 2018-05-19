@@ -1,4 +1,5 @@
 # react-native-htmltext
+Wrapper module of Anthony Ou that uses HTML like markup to create stylized text in react-native.
 
 WIP: Experiment to use HTML like markup to create stylized text in react-native.
 
@@ -7,7 +8,7 @@ WIP: Experiment to use HTML like markup to create stylized text in react-native.
 React Native provide a Text element for stylized text. Instead of using ``NSAttributedString``, 
 you creat nested Text:
 
-```
+```javascript
 <Text style={{fontWeight: 'bold'}}>
   I am bold 
   <Text style={{color: 'red'}}> and red </Text>

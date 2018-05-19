@@ -1,6 +1,6 @@
 {
     "name": "react-native-html-to-text-wrapper",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "Wrapper module of Anthony Ou that uses HTML like markup to create stylized text in react-native.",
     "private": false,
     "scripts": {
